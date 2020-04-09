@@ -15,8 +15,8 @@
 ## Contributing: 
  pull requests! 
 ## Usage: 
- You can download this package and run it locally, or you can visit the heroku link here 
- https://polar-bastion-27767.herokuapp.com/
+ You can download this package and run it locally, or you can visit the netlify here 
+[ nifty-euclid-b8b117](https://nifty-euclid-b8b117.netlify.com/)
 
 ## License: 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
